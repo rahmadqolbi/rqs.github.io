@@ -1,0 +1,16 @@
+h1 {
+	font-family:cursive;
+}
+.rem {
+	margin-left: 5px;
+	background-color: white;
+	color: red;
+	border: none;
+	cursor: pointer;
+}
+button {
+	background-color: #333;
+	font-weight: bold;
+	cursor: pointer;
+	color: white;
+}
